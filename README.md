@@ -66,12 +66,12 @@ Passionate **Embedded Systems Engineer** specializing in low-level programming, 
 ┌──────────────────────────────────────────────────────────────┐
 │  PRIMARY LANGUAGES                                           │
 ├──────────────────────────────────────────────────────────────┤
-│  ░░░░░░░░░░░░░░░░░░░░ C                  95%   [🔴 EXPERT]   │
-│  ░░░░░░░░░░░░░░░░░░░  C++                92%   [🔴 EXPERT]   │
-│  ░░░░░░░░░░░░░░░░░░   Python             88%   [🟠 ADVANCED] │
-│  ░░░░░░░░░░░░░░░░░░░  Assembly           90%   [🔴 EXPERT]   │
-│  ░░░░░░░░░░░░░░░░     Verilog/VHDL       82%   [🟠 ADVANCED] │
-│  ░░░░░░░░░░░░░░░░░░░  Bash/Shell         91%   [🔴 EXPERT]   │
+│  ░░░░░░░░░░░░░░░░░░░░ C                  95%                 │
+│  ░░░░░░░░░░░░░░░░░░░  C++                92%                 │
+│  ░░░░░░░░░░░░░░░░░░   Python             88%                 │
+│  ░░░░░░░░░░░░░░░░░░░  Assembly           90%                 │
+│  ░░░░░░░░░░░░░░░░     Verilog/VHDL       82%                 │
+│  ░░░░░░░░░░░░░░░░░░░  Bash/Shell         91%                 │
 └──────────────────────────────────────────────────────────────┘
 ```
 
@@ -137,12 +137,12 @@ Passionate **Embedded Systems Engineer** specializing in low-level programming, 
 
 ## 🔐 Engineering Best Practices
 
-- ✅ Memory-safe coding patterns (MISRA-C)
-- ✅ Buffer overflow prevention
-- ✅ Secure boot & firmware verification
-- ✅ Cryptographic protocol implementation
-- ✅ Interrupt-safe programming
-- ✅ Low-power optimization techniques
+-  Memory-safe coding patterns (MISRA-C)
+-  Buffer overflow prevention
+-  Secure boot & firmware verification
+-  Cryptographic protocol implementation
+-  Interrupt-safe programming
+-  Low-power optimization techniques
 
 ---
 
@@ -204,9 +204,6 @@ Passionate **Embedded Systems Engineer** specializing in low-level programming, 
 ### ⭐ If you find my projects useful, consider starring them!
 
 ---
-
-**Made with ❤️ and ⚙️ by Dtung24**
-
 *"Keep it simple, keep it working."* 🚀
 
 </div>
