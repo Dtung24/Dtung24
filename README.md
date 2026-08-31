@@ -27,11 +27,10 @@
  */
 typedef struct {
     const char* role           = "Embedded Systems & Hardware Engineer";
-    const char* company        = "TechByte (Software Development)";
     const char* core_stack[]   = { "C/C++", "FreeRTOS", "STM32 HAL", "Altium Designer" };
-    const char* architectures[]= { "STM32 (STM32F103C8T6)", "Espressif (ESP32/ESP32-S3/ESP8266)" };
+    const char* architectures[]= { "STM32", "Espressif (ESP32/ESP32-S3/ESP8266)" };
     const char* protocols[]    = { "UART", "SPI", "I2C", "Cellular LTE" };
     bool        dma_zero_copy  = true;
     bool        hard_realtime  = true;
-    uint32_t    current_focus  = ADAPTIVE_BEAMFORMING | AI_AGENT | HIGH_SPEED_PCB;
+    uint32_t    current_focus  = ADAPTIVE_BEAMFORMING | AI_AGENT | HIGH_SPEED_PCB | EDGE_AI |;
 } SystemProfile_t;
